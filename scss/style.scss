@@ -1,0 +1,17 @@
+$color: silver;
+
+body {
+    background: $color;
+
+    h1 {
+        font-weight: lighter;
+        color: red;
+    }
+}
+
+a {
+    transition: all 0.5s ease-in-out;
+}
+span {
+    color: red;
+}
